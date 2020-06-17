@@ -10,3 +10,4 @@ This blog is designed to demonstrate a few things:
 -backend functionality, content management system for super user
 -pagination
  
+Demo: https://mydjangodemoblog.herokuapp.com/
